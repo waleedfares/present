@@ -1,0 +1,10 @@
+{
+  "center": [25, 37],
+  "scale": 1120,
+  "translate": [960, 540],
+  "tiles": [
+    { "name": "map-wide", "bounds": [0, 0, 1920, 1080], "density": 1.5 },
+    { "name": "map-istanbul", "bounds": [770, 310, 560, 236], "density": 4 },
+    { "name": "map-palestine", "bounds": [940, 588, 400, 238], "density": 6 }
+  ]
+}
